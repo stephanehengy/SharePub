@@ -8,12 +8,7 @@
         "Message": "",
         "Workitemid": 7149,
         "id": "fddb8b20-382d-4fcb-843c-003da9239690",
-        "_rid": "gSI1APV4kR4BAAAAAAAAAA==",
-        "_self": "dbs/gSI1AA==/colls/gSI1APV4kR4=/docs/gSI1APV4kR4BAAAAAAAAAA==/",
-        "_etag": "\"1c01529d-0000-1600-0000-6909a9090000\"",
-        "_attachments": "attachments/",
-        "Status": "Processed",
-        "_ts": 1762240777
+        "Status": "Processed"
     },
     {
         "PartitionKey": "5a586635-7b00-416a-8701-2d7e3eb28ac1",
@@ -24,11 +19,6 @@
         "Message": "",
         "Workitemid": 7149,
         "id": "0c366e48-9c5e-419d-8e79-aaa67b476d62",
-        "_rid": "gSI1APV4kR4CAAAAAAAAAA==",
-        "_self": "dbs/gSI1AA==/colls/gSI1APV4kR4=/docs/gSI1APV4kR4CAAAAAAAAAA==/",
-        "_etag": "\"bc000561-0000-1600-0000-690338510000\"",
-        "_attachments": "attachments/",
-        "Status": "Processed",
-        "_ts": 1761818705
+        "Status": "Processed"
     }
 ]
